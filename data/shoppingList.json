@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "ingredientName": "Banana",
+    "imgURL": "https://www.dolenz.co.nz/uploads/cache/img/rc/UlbhALJo//uploads/media/5ad5653d97b82/fruit-heros-banana-new.png",
+    "alt": "Banana",
+    "price": 45
+  },
+  {
+    "id": 2,
+    "ingredientName": "Scallion",
+    "imgURL": "https://cdn.shopify.com/s/files/1/0271/6634/3237/products/scallion.png?v=1610102519",
+    "alt": "Scallion",
+    "price": 45
+  },
+  {
+    "id": 3,
+    "ingredientName": "Shallot",
+    "imgURL": "https://www.topshallots.com/l/en/library/download/urn:uuid:68d8f5d1-c79f-45f8-978b-b3a339a28187/demi-long-ui-thumb.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 4,
+    "ingredientName": "Garlic",
+    "imgURL": "https://www.ortis.com/media/plant/allium-sativum.png",
+    "alt": "Gallic",
+    "price": 45
+  },
+  {
+    "id": 5,
+    "ingredientName": "Tomato",
+    "imgURL": "https://kimitecagro.com/wp-content/uploads/2019/07/plantilla_ficha-ensayo_BOMBARDIER-en-tomate-industrial-var.-H1015-yH2401-04.png",
+    "alt": "Tomato",
+    "price": 45
+  },
+  {
+    "id": 6,
+    "ingredientName": "Chilli",
+    "imgURL": "https://pngimg.com/uploads/chili_pepper/chili_pepper_PNG17.png",
+    "alt": "Chilli",
+    "price": 45
+  },
+  {
+    "id": 7,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 8,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 9,
+    "ingredientName": "Banana",
+    "imgURL": "https://www.dolenz.co.nz/uploads/cache/img/rc/UlbhALJo//uploads/media/5ad5653d97b82/fruit-heros-banana-new.png",
+    "alt": "Banana",
+    "price": 45
+  },
+  {
+    "id": 10,
+    "ingredientName": "Banana",
+    "imgURL": "https://www.dolenz.co.nz/uploads/cache/img/rc/UlbhALJo//uploads/media/5ad5653d97b82/fruit-heros-banana-new.png",
+    "alt": "Banana",
+    "price": 45
+  },
+  {
+    "id": 11,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 12,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 13,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 14,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 15,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 16,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  },
+  {
+    "id": 17,
+    "ingredientName": "Banana",
+    "imgURL": "https://burgerking.vn/skin/frontend/bk2/default/images/promotion/thursday.png",
+    "alt": "asasdasd",
+    "price": 45
+  }
+]

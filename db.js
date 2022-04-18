@@ -1,8 +1,9 @@
 const recipe = require("./data/recipe");
+const shoppingList = require("./data/shoppingList");
 
 module.exports = {
- 
-  recipe
+  recipe,
+  shoppingList,
 }
 
 
